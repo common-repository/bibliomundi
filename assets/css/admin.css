@@ -1,0 +1,9 @@
+.bibliomundi-button.loading::before {
+	content: "";
+	background: url(../images/loader.gif) no-repeat 0 1px;
+	padding-left: 30px;
+}
+
+.bibliomundi-alert {
+	padding: 10px !important;
+}

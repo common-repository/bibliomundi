@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-25 22:55-0200\n"
+"PO-Revision-Date: 2015-11-25 22:56-0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wc-api-bibliomundi.php:52
+msgid "Invalid credentials."
+msgstr "Credenciais inválidas."
+
+#: includes/class-wc-api-bibliomundi.php:84
+msgid "Invalid scope!"
+msgstr "Escopo inválido!"
+
+#: includes/class-wc-api-bibliomundi.php:112
+msgid "You must enable the SimpleXML"
+msgstr "Você deve habilitar o SimpleXML."
+
+#: includes/class-wc-catalog-bibliomundi.php:18
+msgid "Invalid operation"
+msgstr "Operação inválida"
+
+#: includes/class-wc-catalog-bibliomundi.php:22
+msgid "You don't have permission to manage woocommerce."
+msgstr "Você não tem permissão para gerenciar o woocommerce."
+
+#: includes/class-wc-catalog-bibliomundi.php:29
+msgid "import"
+msgstr "importar"
+
+#: includes/class-wc-catalog-bibliomundi.php:31
+msgid "update"
+msgstr "atualizar"
+
+#: includes/class-wc-catalog-bibliomundi.php:37
+#, php-format
+msgid "Success to %s catalog."
+msgstr "Sucesso ao %s catálogo."
+
+#: includes/class-wc-catalog-bibliomundi.php:40
+#, php-format
+msgid "Error to %s catalog."
+msgstr "Error ao %s catálogo."
+
+#: includes/class-wc-checkout-bibliomundi.php:34
+#: includes/class-wc-checkout-bibliomundi.php:62
+#: includes/class-wc-customer-bibliomundi.php:22
+#: includes/class-wc-order-bibliomundi.php:20
+#: includes/class-wc-order-bibliomundi.php:31
+msgid "Birthdate"
+msgstr "Data de Nascimento"
+
+#: includes/class-wc-checkout-bibliomundi.php:43
+#: includes/class-wc-checkout-bibliomundi.php:66
+#: includes/class-wc-customer-bibliomundi.php:26
+#: includes/class-wc-order-bibliomundi.php:24
+#: includes/class-wc-order-bibliomundi.php:32
+msgid "Sex"
+msgstr "Gênero"
+
+#: includes/class-wc-checkout-bibliomundi.php:48
+msgid "Select"
+msgstr "Selecione"
+
+#: includes/class-wc-checkout-bibliomundi.php:49
+msgid "Female"
+msgstr "Feminino"
+
+#: includes/class-wc-checkout-bibliomundi.php:50
+msgid "Male"
+msgstr "Masculino"
+
+#: includes/class-wc-checkout-bibliomundi.php:62
+#: includes/class-wc-checkout-bibliomundi.php:66
+msgid "is a required field"
+msgstr "este é um campo requerido"
+
+#: includes/class-wc-checkout-bibliomundi.php:74
+msgid "Please, sign in to continue."
+msgstr "Favor, faça login para continuar."
+
+#: includes/class-wc-checkout-bibliomundi.php:108
+msgid "Please, verify your data."
+msgstr "Por favor, verifique os seus dados."
+
+#: includes/class-wc-customer-bibliomundi.php:19
+msgid "Customer Billing"
+msgstr "Endereço de Cobrança"
+
+#: includes/class-wc-settings-bibliomundi.php:23
+msgid "BiblioMundi"
+msgstr ""
+
+#: includes/class-wc-settings-bibliomundi.php:37
+msgid "Credentials"
+msgstr "Credenciais"
+
+#: includes/class-wc-settings-bibliomundi.php:42
+msgid "Sandbox"
+msgstr ""
+
+#: includes/class-wc-settings-bibliomundi.php:48
+msgid "Client ID"
+msgstr ""
+
+#: includes/class-wc-settings-bibliomundi.php:57
+msgid "Client Secret"
+msgstr ""
+
+#: includes/class-wc-settings-bibliomundi.php:68
+msgid "Actions"
+msgstr "Ações"
+
+#: includes/class-wc-settings-bibliomundi.php:100
+msgid "-- select --"
+msgstr "-- selecione --"
+
+#: includes/class-wc-settings-bibliomundi.php:117
+msgid "Import"
+msgstr "Importar"
+
+#: includes/class-wc-settings-bibliomundi.php:118
+msgid "Update"
+msgstr "Atualizar"
+
+#: woocommerce-bibliomundi.php:73
+#, php-format
+msgid "WooCommerce BiblioMundi depends on %s to work!"
+msgstr "WooCommerce BiblioMundi depende do %s para funcionar!"
+
+#: woocommerce-bibliomundi.php:73
+msgid "WooCommerce"
+msgstr ""
+
+#~ msgid "Please, verify yours data."
+#~ msgstr "Favor, verifique os seus dados."
+
+#~ msgid "Categories"
+#~ msgstr "Categorias"
+
+#~ msgid "Product Category"
+#~ msgstr "Categoria de Produto"
+
+#~ msgid "Authors Category"
+#~ msgstr "Categoria de Autor"
+
+#~ msgid "Publishers Category"
+#~ msgstr "Categoria da Editora"
